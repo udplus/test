@@ -3,7 +3,7 @@
 - test1
 - test2
 
-# aaaaaaaa
+# sublime text 에서 git 파일 수정해서 연동하기.
 > https://help.github.com/articles/creating-and-highlighting-code-blocks/
 
 #
