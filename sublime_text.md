@@ -1,6 +1,5 @@
 # sublime_text.txt
 
-## 설마 이런것도..
 
 ```java
 
